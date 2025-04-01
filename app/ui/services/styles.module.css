@@ -1,0 +1,19 @@
+.services {
+    width: auto;
+    max-width: 1000px;
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin: auto;
+    text-align: center;
+    color: #000000;
+    word-break: break-word;
+}
+.innovationText {
+    width: auto;
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin: auto;
+    text-align: center;
+    color: #000000;
+    word-break: break-word;
+}
