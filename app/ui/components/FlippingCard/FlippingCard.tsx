@@ -25,7 +25,7 @@ const services = [
   {
     step: "04",
     name: "SAP Solutions",
-    imageUrl: "/assets/img3.png",
+    imageUrl: "/assets/SAP Solutions.svg",
     description: "SAP solutions streamline business processes, enhance efficiency, and drive growth with innovative technologies.",
   },
   {
